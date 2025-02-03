@@ -1,0 +1,4 @@
+FROM almalinux:9
+LABEL author : "sivakumar reddy" \
+      company : "join devops" \
+      topic  : "label"
